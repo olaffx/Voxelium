@@ -9,4 +9,4 @@ Create .mobileconfig files in secounds
 
 Some antivirus software may flag Voxelium, this is a known false positive caused by PyInstaller, which packages Python apps into exe. The source code is open and safe.
 
-If Voxelium helped you, give it a star! ⭐
+If Voxelium helped you, give it a star!
