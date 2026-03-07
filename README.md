@@ -1,5 +1,5 @@
 # Voxelium
-Create .mobileconfig files in secounds 
+Create .mobileconfig files in seconds
 
 [![GitHub release](https://img.shields.io/github/v/release/olaffx/voxelium)](https://github.com/olaffx/voxelium/releases)
 [![Downloads](https://img.shields.io/github/downloads/olaffx/voxelium/total)](https://github.com/olaffx/voxelium/releases)
